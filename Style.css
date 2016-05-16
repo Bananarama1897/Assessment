@@ -1,0 +1,24 @@
+
+ {
+    outline: solid 1px yellow;
+}
+
+.Nav_Con {
+    margin: 0px;
+    height: 10%;
+    background-color: blue;
+}
+
+.Page_Con {
+    margin: 0px;
+    height: 2208px;
+    width: 1242px;
+    background-color: black;
+}
+
+.CMP {
+    font-size: 10em;
+    font-family: sans-serif;
+    color: gray;
+    margin-left: 2%;
+}
