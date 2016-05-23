@@ -5,20 +5,56 @@
 
 .Nav_Con {
     margin: 0px;
-    height: 10%;
-    background-color: blue;
+    height: 100px;
+    background-color: #cbcbcb;
+    border-radius: 10px
+    ;
+    
 }
 
 .Page_Con {
-    margin: 0px;
-    height: 2208px;
-    width: 1242px;
-    background-color: black;
+    background-color: #fafafa;
 }
 
 .CMP {
     font-size: 10em;
-    font-family: sans-serif;
+    font-family: Oswald;
     color: gray;
     margin-left: 2%;
+}
+
+body {
+   font-family: Oswald;
+}
+
+.links {
+   text-align: center;
+}
+
+.Portfolio_link {
+   text-align: center;
+}
+
+.Portfolio_link_con {
+
+.CMP_link {
+   text-align: center;
+}
+
+.CMP_link_con {
+   height: 100px;
+   float: left;
+}
+
+.Apply_link {
+   text-align: center;
+}
+
+.Login_link {
+   text-align: center;
+}
+
+.Login_link_con {
+   height: 100px;
+   float: left;
 }
