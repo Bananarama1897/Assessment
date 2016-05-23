@@ -7,7 +7,7 @@
     margin: 0px;
     height: 110px;
     background-color: #cbcbcb;
-    border-radius: 10px
+    border-radius: 0 0 0 10px
     ;
     
 }
@@ -15,6 +15,7 @@
 .Page_Con {
     background-color: #fafafa;
     margin: 0;
+    text-align: left;
 }
 
 .CMP {
@@ -35,6 +36,8 @@ body {
 
 .Portfolio_link {
    text-align: center;
+   color: black;
+
 }
 
 .Portfolio_link_con {
@@ -45,6 +48,7 @@ body {
 
 .CMP_link {
    text-align: center;
+   color: black;
 }
 
 .CMP_link_con {
@@ -55,6 +59,7 @@ body {
 
 .Apply_link {
    text-align: center;
+   color: black;
 }
 
 .Apply_link_con {
@@ -65,6 +70,7 @@ body {
 
 .Login_link {
    text-align: center;
+   color: black;
 }
 
 .Login_link_con {
@@ -74,6 +80,7 @@ body {
 
 .Home_link {
    text-align: center;
+   color: black;
 }
 
 .Home_link_con {
@@ -91,4 +98,17 @@ body {
 
 .selected_link {
     color: #869cda;
+}
+
+img{
+ border-radius: 0px;
+
+}
+
+.text_box {
+    color: white;
+    height: 525px;
+    background-color: #369cda;
+    border-radius: 10px 0px 0px 10px;
+    padding: 5%;
 }
