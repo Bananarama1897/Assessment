@@ -1,11 +1,11 @@
 
- {
-    outline: solid 1px yellow;
+* {
+    outline: solid 1px black;
 }
 
 .Nav_Con {
     margin: 0px;
-    height: 100px;
+    height: 110px;
     background-color: #cbcbcb;
     border-radius: 10px
     ;
@@ -36,6 +36,11 @@ body {
 }
 
 .Portfolio_link_con {
+   height: 100px;
+   text-align: center;
+   width: 20%;
+   float: left;
+   }
 
 .CMP_link {
    text-align: center;
@@ -44,10 +49,17 @@ body {
 .CMP_link_con {
    height: 100px;
    float: left;
+   width: 20%;
 }
 
 .Apply_link {
    text-align: center;
+}
+
+.Apply_link_con {
+   text-align: center;
+   height: 100px;
+   width: 20%;
 }
 
 .Login_link {
@@ -57,4 +69,15 @@ body {
 .Login_link_con {
    height: 100px;
    float: left;
+   width: 20%;
+}
+
+.Home_link {
+   text-align: center;
+}
+
+.Home_link_con {
+   height: 100px;
+   float: left;
+   width: 20%;
 }
