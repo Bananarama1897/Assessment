@@ -179,3 +179,23 @@ img{
     width: 100%;
     background-color: #369cda; 
 }
+
+/*CMP page*/
+
+.cmp_title {
+    width: 100%;
+    text-align: center;
+    font-size: 2;
+}
+
+.cmp_paragraph {
+    width: 50%;
+    font-size: 1.3em;
+}
+
+.cpm_enlarged_text {
+    width: 50%;
+    font-size: 2em;
+    color: #369cda ;
+    font-family: Oswald;
+}
