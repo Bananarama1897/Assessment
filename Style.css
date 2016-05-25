@@ -185,6 +185,7 @@ img{
 .profile_nav {
     height: 75px;
     width: 100%;
+<<<<<<< HEAD
     background-color: #369cda;
     border-radius: 0px 0px 0px 10px;
     margin-left: 10px;
@@ -250,4 +251,27 @@ h1 {
 .grey_tab {
    box-radius: 10px 0px 0px 10px;
    background-color: #c7c8ca;
+=======
+    background-color: #369cda; 
+}
+
+/*CMP page*/
+
+.cmp_title {
+    width: 100%;
+    text-align: center;
+    font-size: 2;
+}
+
+.cmp_paragraph {
+    width: 50%;
+    font-size: 1.3em;
+}
+
+.cpm_enlarged_text {
+    width: 50%;
+    font-size: 2em;
+    color: #369cda ;
+    font-family: Oswald;
+>>>>>>> origin/master
 }
