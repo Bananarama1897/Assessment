@@ -227,3 +227,27 @@ br{
     height: 15px;
 }
 
+.my_work_con {
+   height: 300px;
+   width: 100%;
+   padding-left: 15px;
+}
+
+.my_work_text {
+    padding: 15px;
+    height: 300px;
+    width: 100%;
+    margin-left: 15px;
+    border-radius: 10px 0px 0px 10px;
+    background-color: #c7c8ca;
+    z-index: 3;
+}
+
+h1 {
+   font-size: 3em;
+}
+
+.grey_tab {
+   box-radius: 10px 0px 0px 10px;
+   background-color: #c7c8ca;
+}
