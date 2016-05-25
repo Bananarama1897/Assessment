@@ -161,6 +161,14 @@ img{
    background-color: #369cda; 
 }
 
+.foote {
+   height: 75px;
+   width: 100%;
+   background-color: #369cda;
+   position: absolute;
+   bottom: 0px;
+}
+
 .banner_img {
     width: 100%;
     height: 200px;
@@ -185,6 +193,8 @@ img{
 .profile_nav {
     height: 75px;
     width: 100%;
+   background-color:#369cda; 
+
 <<<<<<< HEAD
     background-color: #369cda;
     border-radius: 0px 0px 0px 10px;
@@ -251,9 +261,24 @@ h1 {
 .grey_tab {
    box-radius: 10px 0px 0px 10px;
    background-color: #c7c8ca;
-=======
-    background-color: #369cda; 
 }
+
+.left_tab {
+   height: 450px;
+   background-color: #c7c8ca;
+}
+
+.middle_tab {
+   height: 450px;
+
+}
+
+.right_tab {
+   height: 450px;
+   background-color: #c7c8ca;
+}
+=======================================================================================================
+
 
 /*CMP page*/
 
