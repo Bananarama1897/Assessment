@@ -400,3 +400,10 @@ h1 {
    color: #369cda;
    margin-left: 10px;
 }
+
+.apply_img {
+    width: 260px;
+   height: 260px;
+   margin-left: 20px;
+   margin-bottom: 40px;  
+}
