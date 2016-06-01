@@ -162,14 +162,14 @@ img{
 .footer {
    height: 75px;
    width: 100%;
-   background-color: #369cda; 
+   background-color: #369cda;
 }
 
 .foote {
    height: 75px;
    width: 100%;
    background-color: #369cda;
-   position: absolute;
+   position: relative;
    bottom: 0px;
 }
 
@@ -188,13 +188,12 @@ img{
     height: 200px;
     border-radius: 5px;
     background-color: #7a7e87;
-    position: absolute;
+    position: relative;
     right: 0;
     left: 0;
+    bottom: 150px;
     margin-left: auto;
     margin-right: auto;
-    top: 18%;
-    display: inline-block;
     z-index: 4;
 }
 
@@ -209,6 +208,8 @@ img{
    background-color:#369cda; 
     border-radius: 0px 0px 0px 10px;
     margin-left: 10px;
+    position: relative;
+    bottom: 200px;
 }
 
 .profile_links {
@@ -258,8 +259,10 @@ h1 {
 }
 
 .grey_tab {
-   box-radius: 10px 0px 0px 10px;
+   border-radius: 10px 0px 0px 10px;
    background-color: #c7c8ca;
+   padding: 10px;
+   margin-left: 10px;
 }
 
 .left_tab {
@@ -275,6 +278,10 @@ h1 {
    background-color: #fafafa;
    border: 1px solid black;
    padding: 10px;
+   min-width: 150px;
+   max-height: 45px;
+   min-height: 45px;
+   overflow: hidden;
 }
 
 .middle_tab {
@@ -372,4 +379,24 @@ h1 {
    position: fixed;
    bottom: 0px;
    width: 100%;
+}
+
+.apply_heading {
+   font-size: 2.5em;
+   margin-left: 20px;
+}
+
+.apply_text {
+   padding: 10px;
+}
+
+.under_heading{
+   color: #369cda;
+   font-size: 2em;
+}
+
+.my_work_heading{
+   font-size: 2.5em;
+   color: #369cda;
+   margin-left: 10px;
 }
